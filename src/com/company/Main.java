@@ -69,6 +69,7 @@ public class Main {
         //Задание5
         for (int i = 1; i < 11; i++) {
             System.out.printf("Число гармонического ряда номер %s = %s,\n", i, 1./i);
+
         }
      }
 
